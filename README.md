@@ -6,7 +6,6 @@
 
 - Fun fact **I think therefore I am**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

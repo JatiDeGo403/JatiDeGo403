@@ -15,7 +15,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JatiDeGo403&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=JatiDeGo403&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <h3 align="center"><img width="576" height="576" alt="Image" src="https://github.com/user-attachments/assets/06cab8e7-ecc2-4564-8645-fd48a5507656" /></h3>

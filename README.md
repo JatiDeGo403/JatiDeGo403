@@ -1,10 +1,10 @@
-# About Dewojenenge
+# About Me:
 <h1 align="center">Hello, I'm Gilang Jati</h1>
 <h3 align="center">We don’t read and write poetry because it’s cute. We read and write poetry because we are members of the human race.</h3>
 
-- Ask me about **psychology, history, Experience**
+- Ask me about **Psychology, History, Experience, Social Engineering, Doxing, but don't ask me about woman**
 
-- Fun fact **I think therefore I am**
+- Fun fact **Cogito Ergo Sum, I Larp Therefore I'm**
 <h3 align="center"> Mama, i'm chasing 404Ghost </h3>
 
 

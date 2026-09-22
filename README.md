@@ -1,11 +1,11 @@
-# About Me403
+# About Dewojenenge
 <h1 align="center">Hello, I'm Gilang Jati</h1>
 <h3 align="center">We don’t read and write poetry because it’s cute. We read and write poetry because we are members of the human race.</h3>
 
 - Ask me about **psychology, history, Experience**
 
 - Fun fact **I think therefore I am**
-<h3 align="center"> I Saw You 4Ghost </h3>
+<h3 align="center"> Mama, i'm chasing 404Ghost </h3>
 
 
 # 💻 Tech Stack:

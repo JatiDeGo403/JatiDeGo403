@@ -1,4 +1,5 @@
 # About Me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=agus,+apalah!)](https://git.io/typing-svg)
 <h1 align="center">Hello, I'm Gilang Jati</h1>
 <h3 align="center">Because, believe it or not, each and every one of us in this room is one day going to stop breathing, turn cold, and die</h3>
 

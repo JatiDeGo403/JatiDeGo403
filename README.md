@@ -1,5 +1,4 @@
 # About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=agus,+apalah!)](https://git.io/typing-svg)
 <h1 align="center">Hello, I'm Gilang Jati</h1>
 <h3 align="center">Because, believe it or not, each and every one of us in this room is one day going to stop breathing, turn cold, and die</h3>
 
@@ -17,6 +16,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=JatiDeGo403&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-
 <h3 align="center"><img width="576" height="576" alt="Image" src="https://github.com/user-attachments/assets/06cab8e7-ecc2-4564-8645-fd48a5507656" /></h3>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=Hello+I'm,+Dewojenenge!)](https://git.io/typing-svg)

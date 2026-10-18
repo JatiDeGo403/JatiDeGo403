@@ -2,9 +2,9 @@
 <h1 align="center">Hello, I'm Gilang Jati</h1>
 <h3 align="center">Because, believe it or not, each and every one of us in this room is one day going to stop breathing, turn cold, and die</h3>
 
-- Ask me about **Psychology, History, Experience, Social Engineering, Doxing, but don't ask me about woman**
+- Ask me about **Psychology, History, Experience, Social Engineering, but don't ask me about what i did today**
 
-- Fun fact **Cogito Ergo Sum, I Larp Therefore I'm**
+- Fun fact **Cogito Ergo Sum, I Think Therefore I'm**
 <h3 align="center"> Mama, i'm chasing 404Ghost </h3>
 
 

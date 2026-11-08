@@ -3,7 +3,7 @@
 <h3 align="center"> I believe I can do it just as much as I believe she likes me </h3>
 
 - Ask me about **Psychology, History, Social Engineering, UI/UX**
-- Fun Fact about Me: I’ve wanted to be a programmer since I was about 3 years old. A few years ago, I exploited people’s psychology and game accounts—it was fun, but it hurt others. Now I want to pursue my long-held dream, and I still hate that woman.
+- Fun Fact about Me: I’ve wanted to be a programmer since I was about 3 years old. A few years ago, I exploited people’s psychology and game accounts, it was fun, but it hurt others. Now I want to pursue my long-held dream, and I still hate that woman.
 
 <h3> Hate God Complex Person </h3>
 

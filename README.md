@@ -1,11 +1,10 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=About+Me:)](https://git.io/typing-svg)
-<h1 align="center">Hello, I'm Gilang Jati</h1>
-<h3 align="center">Because, believe it or not, each and every one of us in this room is one day going to stop breathing, turn cold, and die</h3>
+<h1 align="center"> Hello, I'm Gilang </h1>
+<h3 align="center"> I believe I can do it just as much as I believe she likes me </h3>
 
-- Ask me about **Psychology, History, Experience, Social Engineering, but don't ask me about what i did today**
+- Ask me about **Psychology, History, Social Engineering, UI/UX**
 
-- Fun fact **Cogito Ergo Sum, I Think Therefore I'm**
-<h3 align="center"> Mama, i'm chasing 404Ghost </h3>
+<h3 align="center"> Hate God Complex Person </h3>
 
 
 # 💻 Tech Stack:
